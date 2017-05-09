@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <title>Starter Template - Materialize</title>
+  <title>Car One</title>
 
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -16,7 +16,7 @@
 </head>
 <body>
   <nav class="transparent" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo blue-text">iHero</a>
+    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo blue-text">Car One</a>
       <ul class="right hide-on-med-and-down">
         <li><a class="black-text" href="#">Navbar Link</a></li>
       </ul>
